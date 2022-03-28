@@ -77,3 +77,6 @@ body {
 .future-forecast .weather-forecast {
   display: flex;
 }
+.codedby {
+  background: white;
+}
